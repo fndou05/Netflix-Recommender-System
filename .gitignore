@@ -50,6 +50,12 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+*.DS_Store
+
+#Ignoring large folders
+code/hyperband/
+code/logs/
+data/
 
 # Translations
 *.mo
